@@ -12,6 +12,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         android:textFontWeight="700"
-        android:text="Tere taas, hakkame meelde tuletama!"/>
+        android:text="Tere taas, hakkame meelde tuletama! Asi on ikka päris hapu :/"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
